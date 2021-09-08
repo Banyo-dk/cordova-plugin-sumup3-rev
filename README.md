@@ -70,4 +70,5 @@ functions and their arguments. All API functions are asynchronous and return a
 ## Credits
 
 Original: https://github.com/thomascube/cordova-plugin-sumup3
+
 Inspired by https://github.com/Oupsla/cordova-sumup-plugin
