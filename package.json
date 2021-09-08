@@ -1,0 +1,15 @@
+{
+	"name": "cordova-plugin-sumup3-rev",
+	"version": "1.3.1",
+	"description": "Fork from https://github.com/thomascube/cordova-plugin-sumup3",
+	"cordova": {
+		"id": "cordova-plugin-sumup3",
+		"platforms": [
+			"android",
+			"ios"
+		]
+	},
+	"author": "Marco D. Cellamare <marco.cellamare@yahoo.it>",
+	"license": "MIT",
+	"homepage": "https://github.com/Banyo-dk/cordova-plugin-sumup3-rev"
+}
