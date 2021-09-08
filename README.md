@@ -18,7 +18,7 @@ This plugin permits interconnection beetween native SumUp SDK and hybrid mobile 
 ## Installation
 
 ```
-$ cordova plugin add cordova-plugin-sumup3 --variable SUMUP_API_KEY=<YOUR_AFFILIATION_KEY>
+$ cordova plugin add https://github.com/Banyo-dk/cordova-plugin-sumup3-rev.git --variable SUMUP_API_KEY=<YOUR_AFFILIATION_KEY>
 ```
 
 You can add your affiliation key here: https://me.sumup.com/developers
@@ -69,4 +69,5 @@ functions and their arguments. All API functions are asynchronous and return a
 
 ## Credits
 
+Original: https://github.com/thomascube/cordova-plugin-sumup3
 Inspired by https://github.com/Oupsla/cordova-sumup-plugin
