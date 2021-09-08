@@ -1,6 +1,8 @@
-# Fork from https://github.com/thomascube/cordova-plugin-sumup3
+# This is a fork
 
-Android lib updated to the 3.3.1
+Original: https://github.com/thomascube/cordova-plugin-sumup3
+
+Android lib updated to version 3.3.1
 
 # cordova-plugin-sumup3
 
