@@ -29,16 +29,10 @@ android {
         exclude 'META-INF/LICENSE'
     }
 
-	buildTypes {
-        debug {
-            // All ProGuard rules required by the SumUp SDK are packaged with the library
-            minifyEnabled true
-            proguardFiles getDefaultProguardFile('proguard-android.txt')
-        }
-    }
-}
-
-dependencies {
+	dependencies {
         implementation 'com.google.android.gms:play-services-location:18.0.0'
         implementation 'com.sumup:merchant-sdk:3.4.0'
+	}
 }
+
+
