@@ -2,7 +2,7 @@
 
 Original: https://github.com/thomascube/cordova-plugin-sumup3
 
-Android lib updated to version 3.3.1
+Android lib updated to version 3.4.0
 
 # cordova-plugin-sumup3
 
