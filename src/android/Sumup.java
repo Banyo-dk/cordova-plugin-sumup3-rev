@@ -164,7 +164,7 @@ public class Sumup extends CordovaPlugin {
 		callback = callbackContext;
 		cordova.setActivityResultCallback(this);
 
-		SumUpAPI.openPaymentSettingsActivity(this.cordova.getActivity(), REQUEST_CODE_PAYMENT_SETTINGS);
+		SumUpAPI.openPaymentSettingsActivity(this.cordova.getActivity(), REQUEST_CODE_SETTINGS);
 	}
 
 	@Override
